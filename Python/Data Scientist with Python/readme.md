@@ -1,1 +1,1 @@
-# Data Science With Python Track
+# Data Scientist With Python Track
